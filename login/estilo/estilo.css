@@ -1,0 +1,55 @@
+div#corpo{
+    width: 400px;
+    margin-top: 170px;
+    margin-left: 95px;
+    /* margin: auto; */
+    padding: 20px;
+}
+input#button{
+    margin-left:58px;
+    margin-top: 45px;
+    border-radius: 20px;
+    border: none;
+    height: 35px;
+    width: 180px;
+    background-color: rgb(78, 140, 255);
+    color: white;
+}
+input#button:hover {
+
+    color: #fff;
+    background-color: rgb(46, 119, 255);
+    
+    }  
+
+input#button:active{
+    color: #fff;
+background-color: rgb(3, 32, 85);
+}
+body{
+    background-image: url('../../images/Fundo\ de\ tela.png');
+}
+svg#google{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+svg#facebook{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+h6#title{
+    /* margin-left: 30px; */
+    margin-top: 57px;
+    color: white;
+}
+h6#cadastre{
+    color: white;
+    margin-top: 30px;
+}
+a#cad{
+    text-decoration: none;
+    color:rgb(46, 119, 255) ;
+}
+body.img{
+    width: 40px;
+}
